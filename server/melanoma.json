@@ -1,0 +1,2052 @@
+[
+  {
+    "": 1,
+    "time": 10,
+    "status": 3,
+    "sex": 1,
+    "age": 76,
+    "year": 1972,
+    "thickness": 6.76,
+    "ulcer": 1
+  },
+  {
+    "": 2,
+    "time": 30,
+    "status": 3,
+    "sex": 1,
+    "age": 56,
+    "year": 1968,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 3,
+    "time": 35,
+    "status": 2,
+    "sex": 1,
+    "age": 41,
+    "year": 1977,
+    "thickness": 1.34,
+    "ulcer": 0
+  },
+  {
+    "": 4,
+    "time": 99,
+    "status": 3,
+    "sex": 0,
+    "age": 71,
+    "year": 1968,
+    "thickness": 2.9,
+    "ulcer": 0
+  },
+  {
+    "": 5,
+    "time": 185,
+    "status": 1,
+    "sex": 1,
+    "age": 52,
+    "year": 1965,
+    "thickness": 12.08,
+    "ulcer": 1
+  },
+  {
+    "": 6,
+    "time": 204,
+    "status": 1,
+    "sex": 1,
+    "age": 28,
+    "year": 1971,
+    "thickness": 4.84,
+    "ulcer": 1
+  },
+  {
+    "": 7,
+    "time": 210,
+    "status": 1,
+    "sex": 1,
+    "age": 77,
+    "year": 1972,
+    "thickness": 5.16,
+    "ulcer": 1
+  },
+  {
+    "": 8,
+    "time": 232,
+    "status": 3,
+    "sex": 0,
+    "age": 60,
+    "year": 1974,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 9,
+    "time": 232,
+    "status": 1,
+    "sex": 1,
+    "age": 49,
+    "year": 1968,
+    "thickness": 12.88,
+    "ulcer": 1
+  },
+  {
+    "": 10,
+    "time": 279,
+    "status": 1,
+    "sex": 0,
+    "age": 68,
+    "year": 1971,
+    "thickness": 7.41,
+    "ulcer": 1
+  },
+  {
+    "": 11,
+    "time": 295,
+    "status": 1,
+    "sex": 0,
+    "age": 53,
+    "year": 1969,
+    "thickness": 4.19,
+    "ulcer": 1
+  },
+  {
+    "": 12,
+    "time": 355,
+    "status": 3,
+    "sex": 0,
+    "age": 64,
+    "year": 1972,
+    "thickness": 0.16,
+    "ulcer": 1
+  },
+  {
+    "": 13,
+    "time": 386,
+    "status": 1,
+    "sex": 0,
+    "age": 68,
+    "year": 1965,
+    "thickness": 3.87,
+    "ulcer": 1
+  },
+  {
+    "": 14,
+    "time": 426,
+    "status": 1,
+    "sex": 1,
+    "age": 63,
+    "year": 1970,
+    "thickness": 4.84,
+    "ulcer": 1
+  },
+  {
+    "": 15,
+    "time": 469,
+    "status": 1,
+    "sex": 0,
+    "age": 14,
+    "year": 1969,
+    "thickness": 2.42,
+    "ulcer": 1
+  },
+  {
+    "": 16,
+    "time": 493,
+    "status": 3,
+    "sex": 1,
+    "age": 72,
+    "year": 1971,
+    "thickness": 12.56,
+    "ulcer": 1
+  },
+  {
+    "": 17,
+    "time": 529,
+    "status": 1,
+    "sex": 1,
+    "age": 46,
+    "year": 1971,
+    "thickness": 5.8,
+    "ulcer": 1
+  },
+  {
+    "": 18,
+    "time": 621,
+    "status": 1,
+    "sex": 1,
+    "age": 72,
+    "year": 1972,
+    "thickness": 7.06,
+    "ulcer": 1
+  },
+  {
+    "": 19,
+    "time": 629,
+    "status": 1,
+    "sex": 1,
+    "age": 95,
+    "year": 1968,
+    "thickness": 5.48,
+    "ulcer": 1
+  },
+  {
+    "": 20,
+    "time": 659,
+    "status": 1,
+    "sex": 1,
+    "age": 54,
+    "year": 1972,
+    "thickness": 7.73,
+    "ulcer": 1
+  },
+  {
+    "": 21,
+    "time": 667,
+    "status": 1,
+    "sex": 0,
+    "age": 89,
+    "year": 1968,
+    "thickness": 13.85,
+    "ulcer": 1
+  },
+  {
+    "": 22,
+    "time": 718,
+    "status": 1,
+    "sex": 1,
+    "age": 25,
+    "year": 1967,
+    "thickness": 2.34,
+    "ulcer": 1
+  },
+  {
+    "": 23,
+    "time": 752,
+    "status": 1,
+    "sex": 1,
+    "age": 37,
+    "year": 1973,
+    "thickness": 4.19,
+    "ulcer": 1
+  },
+  {
+    "": 24,
+    "time": 779,
+    "status": 1,
+    "sex": 1,
+    "age": 43,
+    "year": 1967,
+    "thickness": 4.04,
+    "ulcer": 1
+  },
+  {
+    "": 25,
+    "time": 793,
+    "status": 1,
+    "sex": 1,
+    "age": 68,
+    "year": 1970,
+    "thickness": 4.84,
+    "ulcer": 1
+  },
+  {
+    "": 26,
+    "time": 817,
+    "status": 1,
+    "sex": 0,
+    "age": 67,
+    "year": 1966,
+    "thickness": 0.32,
+    "ulcer": 0
+  },
+  {
+    "": 27,
+    "time": 826,
+    "status": 3,
+    "sex": 0,
+    "age": 86,
+    "year": 1965,
+    "thickness": 8.54,
+    "ulcer": 1
+  },
+  {
+    "": 28,
+    "time": 833,
+    "status": 1,
+    "sex": 0,
+    "age": 56,
+    "year": 1971,
+    "thickness": 2.58,
+    "ulcer": 1
+  },
+  {
+    "": 29,
+    "time": 858,
+    "status": 1,
+    "sex": 0,
+    "age": 16,
+    "year": 1967,
+    "thickness": 3.56,
+    "ulcer": 0
+  },
+  {
+    "": 30,
+    "time": 869,
+    "status": 1,
+    "sex": 0,
+    "age": 42,
+    "year": 1965,
+    "thickness": 3.54,
+    "ulcer": 0
+  },
+  {
+    "": 31,
+    "time": 872,
+    "status": 1,
+    "sex": 0,
+    "age": 65,
+    "year": 1968,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 32,
+    "time": 967,
+    "status": 1,
+    "sex": 1,
+    "age": 52,
+    "year": 1970,
+    "thickness": 4.83,
+    "ulcer": 1
+  },
+  {
+    "": 33,
+    "time": 977,
+    "status": 1,
+    "sex": 1,
+    "age": 58,
+    "year": 1967,
+    "thickness": 1.62,
+    "ulcer": 1
+  },
+  {
+    "": 34,
+    "time": 982,
+    "status": 1,
+    "sex": 0,
+    "age": 60,
+    "year": 1970,
+    "thickness": 6.44,
+    "ulcer": 1
+  },
+  {
+    "": 35,
+    "time": 1041,
+    "status": 1,
+    "sex": 1,
+    "age": 68,
+    "year": 1967,
+    "thickness": 14.66,
+    "ulcer": 0
+  },
+  {
+    "": 36,
+    "time": 1055,
+    "status": 1,
+    "sex": 0,
+    "age": 75,
+    "year": 1967,
+    "thickness": 2.58,
+    "ulcer": 1
+  },
+  {
+    "": 37,
+    "time": 1062,
+    "status": 1,
+    "sex": 1,
+    "age": 19,
+    "year": 1966,
+    "thickness": 3.87,
+    "ulcer": 1
+  },
+  {
+    "": 38,
+    "time": 1075,
+    "status": 1,
+    "sex": 1,
+    "age": 66,
+    "year": 1971,
+    "thickness": 3.54,
+    "ulcer": 1
+  },
+  {
+    "": 39,
+    "time": 1156,
+    "status": 1,
+    "sex": 0,
+    "age": 56,
+    "year": 1970,
+    "thickness": 1.34,
+    "ulcer": 1
+  },
+  {
+    "": 40,
+    "time": 1228,
+    "status": 1,
+    "sex": 1,
+    "age": 46,
+    "year": 1973,
+    "thickness": 2.24,
+    "ulcer": 1
+  },
+  {
+    "": 41,
+    "time": 1252,
+    "status": 1,
+    "sex": 0,
+    "age": 58,
+    "year": 1971,
+    "thickness": 3.87,
+    "ulcer": 1
+  },
+  {
+    "": 42,
+    "time": 1271,
+    "status": 1,
+    "sex": 0,
+    "age": 74,
+    "year": 1971,
+    "thickness": 3.54,
+    "ulcer": 1
+  },
+  {
+    "": 43,
+    "time": 1312,
+    "status": 1,
+    "sex": 0,
+    "age": 65,
+    "year": 1970,
+    "thickness": 17.42,
+    "ulcer": 1
+  },
+  {
+    "": 44,
+    "time": 1427,
+    "status": 3,
+    "sex": 1,
+    "age": 64,
+    "year": 1972,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 45,
+    "time": 1435,
+    "status": 1,
+    "sex": 1,
+    "age": 27,
+    "year": 1969,
+    "thickness": 3.22,
+    "ulcer": 0
+  },
+  {
+    "": 46,
+    "time": 1499,
+    "status": 2,
+    "sex": 1,
+    "age": 73,
+    "year": 1973,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 47,
+    "time": 1506,
+    "status": 1,
+    "sex": 1,
+    "age": 56,
+    "year": 1970,
+    "thickness": 4.51,
+    "ulcer": 1
+  },
+  {
+    "": 48,
+    "time": 1508,
+    "status": 2,
+    "sex": 1,
+    "age": 63,
+    "year": 1973,
+    "thickness": 8.38,
+    "ulcer": 1
+  },
+  {
+    "": 49,
+    "time": 1510,
+    "status": 2,
+    "sex": 0,
+    "age": 69,
+    "year": 1973,
+    "thickness": 1.94,
+    "ulcer": 0
+  },
+  {
+    "": 50,
+    "time": 1512,
+    "status": 2,
+    "sex": 0,
+    "age": 77,
+    "year": 1973,
+    "thickness": 0.16,
+    "ulcer": 0
+  },
+  {
+    "": 51,
+    "time": 1516,
+    "status": 1,
+    "sex": 1,
+    "age": 80,
+    "year": 1968,
+    "thickness": 2.58,
+    "ulcer": 1
+  },
+  {
+    "": 52,
+    "time": 1525,
+    "status": 3,
+    "sex": 0,
+    "age": 76,
+    "year": 1970,
+    "thickness": 1.29,
+    "ulcer": 1
+  },
+  {
+    "": 53,
+    "time": 1542,
+    "status": 2,
+    "sex": 0,
+    "age": 65,
+    "year": 1973,
+    "thickness": 0.16,
+    "ulcer": 0
+  },
+  {
+    "": 54,
+    "time": 1548,
+    "status": 1,
+    "sex": 0,
+    "age": 61,
+    "year": 1972,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 55,
+    "time": 1557,
+    "status": 2,
+    "sex": 0,
+    "age": 26,
+    "year": 1973,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 56,
+    "time": 1560,
+    "status": 1,
+    "sex": 0,
+    "age": 57,
+    "year": 1973,
+    "thickness": 2.1,
+    "ulcer": 0
+  },
+  {
+    "": 57,
+    "time": 1563,
+    "status": 2,
+    "sex": 0,
+    "age": 45,
+    "year": 1973,
+    "thickness": 0.32,
+    "ulcer": 0
+  },
+  {
+    "": 58,
+    "time": 1584,
+    "status": 1,
+    "sex": 1,
+    "age": 31,
+    "year": 1970,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 59,
+    "time": 1605,
+    "status": 2,
+    "sex": 0,
+    "age": 36,
+    "year": 1973,
+    "thickness": 1.13,
+    "ulcer": 0
+  },
+  {
+    "": 60,
+    "time": 1621,
+    "status": 1,
+    "sex": 0,
+    "age": 46,
+    "year": 1972,
+    "thickness": 5.16,
+    "ulcer": 1
+  },
+  {
+    "": 61,
+    "time": 1627,
+    "status": 2,
+    "sex": 0,
+    "age": 43,
+    "year": 1973,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 62,
+    "time": 1634,
+    "status": 2,
+    "sex": 0,
+    "age": 68,
+    "year": 1973,
+    "thickness": 1.37,
+    "ulcer": 0
+  },
+  {
+    "": 63,
+    "time": 1641,
+    "status": 2,
+    "sex": 1,
+    "age": 57,
+    "year": 1973,
+    "thickness": 0.24,
+    "ulcer": 0
+  },
+  {
+    "": 64,
+    "time": 1641,
+    "status": 2,
+    "sex": 0,
+    "age": 57,
+    "year": 1973,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 65,
+    "time": 1648,
+    "status": 2,
+    "sex": 0,
+    "age": 55,
+    "year": 1973,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 66,
+    "time": 1652,
+    "status": 2,
+    "sex": 0,
+    "age": 58,
+    "year": 1973,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 67,
+    "time": 1654,
+    "status": 2,
+    "sex": 1,
+    "age": 20,
+    "year": 1973,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 68,
+    "time": 1654,
+    "status": 2,
+    "sex": 0,
+    "age": 67,
+    "year": 1973,
+    "thickness": 1.13,
+    "ulcer": 0
+  },
+  {
+    "": 69,
+    "time": 1667,
+    "status": 1,
+    "sex": 0,
+    "age": 44,
+    "year": 1971,
+    "thickness": 5.8,
+    "ulcer": 1
+  },
+  {
+    "": 70,
+    "time": 1678,
+    "status": 2,
+    "sex": 0,
+    "age": 59,
+    "year": 1973,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 71,
+    "time": 1685,
+    "status": 2,
+    "sex": 0,
+    "age": 32,
+    "year": 1973,
+    "thickness": 0.48,
+    "ulcer": 0
+  },
+  {
+    "": 72,
+    "time": 1690,
+    "status": 1,
+    "sex": 1,
+    "age": 83,
+    "year": 1971,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 73,
+    "time": 1710,
+    "status": 2,
+    "sex": 0,
+    "age": 55,
+    "year": 1973,
+    "thickness": 2.26,
+    "ulcer": 0
+  },
+  {
+    "": 74,
+    "time": 1710,
+    "status": 2,
+    "sex": 1,
+    "age": 15,
+    "year": 1973,
+    "thickness": 0.58,
+    "ulcer": 0
+  },
+  {
+    "": 75,
+    "time": 1726,
+    "status": 1,
+    "sex": 0,
+    "age": 58,
+    "year": 1970,
+    "thickness": 0.97,
+    "ulcer": 1
+  },
+  {
+    "": 76,
+    "time": 1745,
+    "status": 2,
+    "sex": 0,
+    "age": 47,
+    "year": 1973,
+    "thickness": 2.58,
+    "ulcer": 1
+  },
+  {
+    "": 77,
+    "time": 1762,
+    "status": 2,
+    "sex": 0,
+    "age": 54,
+    "year": 1973,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 78,
+    "time": 1779,
+    "status": 2,
+    "sex": 1,
+    "age": 55,
+    "year": 1973,
+    "thickness": 3.54,
+    "ulcer": 1
+  },
+  {
+    "": 79,
+    "time": 1787,
+    "status": 2,
+    "sex": 1,
+    "age": 38,
+    "year": 1973,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 80,
+    "time": 1787,
+    "status": 2,
+    "sex": 0,
+    "age": 41,
+    "year": 1973,
+    "thickness": 1.78,
+    "ulcer": 1
+  },
+  {
+    "": 81,
+    "time": 1793,
+    "status": 2,
+    "sex": 0,
+    "age": 56,
+    "year": 1973,
+    "thickness": 1.94,
+    "ulcer": 0
+  },
+  {
+    "": 82,
+    "time": 1804,
+    "status": 2,
+    "sex": 0,
+    "age": 48,
+    "year": 1973,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 83,
+    "time": 1812,
+    "status": 2,
+    "sex": 1,
+    "age": 44,
+    "year": 1973,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 84,
+    "time": 1836,
+    "status": 2,
+    "sex": 0,
+    "age": 70,
+    "year": 1972,
+    "thickness": 1.53,
+    "ulcer": 0
+  },
+  {
+    "": 85,
+    "time": 1839,
+    "status": 2,
+    "sex": 0,
+    "age": 40,
+    "year": 1972,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 86,
+    "time": 1839,
+    "status": 2,
+    "sex": 1,
+    "age": 53,
+    "year": 1972,
+    "thickness": 1.62,
+    "ulcer": 1
+  },
+  {
+    "": 87,
+    "time": 1854,
+    "status": 2,
+    "sex": 0,
+    "age": 65,
+    "year": 1972,
+    "thickness": 1.62,
+    "ulcer": 1
+  },
+  {
+    "": 88,
+    "time": 1856,
+    "status": 2,
+    "sex": 1,
+    "age": 54,
+    "year": 1972,
+    "thickness": 0.32,
+    "ulcer": 0
+  },
+  {
+    "": 89,
+    "time": 1860,
+    "status": 3,
+    "sex": 1,
+    "age": 71,
+    "year": 1969,
+    "thickness": 4.84,
+    "ulcer": 1
+  },
+  {
+    "": 90,
+    "time": 1864,
+    "status": 2,
+    "sex": 0,
+    "age": 49,
+    "year": 1972,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 91,
+    "time": 1899,
+    "status": 2,
+    "sex": 0,
+    "age": 55,
+    "year": 1972,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 92,
+    "time": 1914,
+    "status": 2,
+    "sex": 0,
+    "age": 69,
+    "year": 1972,
+    "thickness": 3.06,
+    "ulcer": 0
+  },
+  {
+    "": 93,
+    "time": 1919,
+    "status": 2,
+    "sex": 1,
+    "age": 83,
+    "year": 1972,
+    "thickness": 3.54,
+    "ulcer": 0
+  },
+  {
+    "": 94,
+    "time": 1920,
+    "status": 2,
+    "sex": 1,
+    "age": 60,
+    "year": 1972,
+    "thickness": 1.62,
+    "ulcer": 1
+  },
+  {
+    "": 95,
+    "time": 1927,
+    "status": 2,
+    "sex": 1,
+    "age": 40,
+    "year": 1972,
+    "thickness": 2.58,
+    "ulcer": 1
+  },
+  {
+    "": 96,
+    "time": 1933,
+    "status": 1,
+    "sex": 0,
+    "age": 77,
+    "year": 1972,
+    "thickness": 1.94,
+    "ulcer": 0
+  },
+  {
+    "": 97,
+    "time": 1942,
+    "status": 2,
+    "sex": 0,
+    "age": 35,
+    "year": 1972,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 98,
+    "time": 1955,
+    "status": 2,
+    "sex": 0,
+    "age": 46,
+    "year": 1972,
+    "thickness": 7.73,
+    "ulcer": 1
+  },
+  {
+    "": 99,
+    "time": 1956,
+    "status": 2,
+    "sex": 0,
+    "age": 34,
+    "year": 1972,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 100,
+    "time": 1958,
+    "status": 2,
+    "sex": 0,
+    "age": 69,
+    "year": 1972,
+    "thickness": 12.88,
+    "ulcer": 0
+  },
+  {
+    "": 101,
+    "time": 1963,
+    "status": 2,
+    "sex": 0,
+    "age": 60,
+    "year": 1972,
+    "thickness": 2.58,
+    "ulcer": 0
+  },
+  {
+    "": 102,
+    "time": 1970,
+    "status": 2,
+    "sex": 1,
+    "age": 84,
+    "year": 1972,
+    "thickness": 4.09,
+    "ulcer": 1
+  },
+  {
+    "": 103,
+    "time": 2005,
+    "status": 2,
+    "sex": 0,
+    "age": 66,
+    "year": 1972,
+    "thickness": 0.64,
+    "ulcer": 0
+  },
+  {
+    "": 104,
+    "time": 2007,
+    "status": 2,
+    "sex": 1,
+    "age": 56,
+    "year": 1972,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 105,
+    "time": 2011,
+    "status": 2,
+    "sex": 0,
+    "age": 75,
+    "year": 1972,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 106,
+    "time": 2024,
+    "status": 2,
+    "sex": 0,
+    "age": 36,
+    "year": 1972,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 107,
+    "time": 2028,
+    "status": 2,
+    "sex": 1,
+    "age": 52,
+    "year": 1972,
+    "thickness": 3.87,
+    "ulcer": 1
+  },
+  {
+    "": 108,
+    "time": 2038,
+    "status": 2,
+    "sex": 0,
+    "age": 58,
+    "year": 1972,
+    "thickness": 0.32,
+    "ulcer": 1
+  },
+  {
+    "": 109,
+    "time": 2056,
+    "status": 2,
+    "sex": 0,
+    "age": 39,
+    "year": 1972,
+    "thickness": 0.32,
+    "ulcer": 0
+  },
+  {
+    "": 110,
+    "time": 2059,
+    "status": 2,
+    "sex": 1,
+    "age": 68,
+    "year": 1972,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 111,
+    "time": 2061,
+    "status": 1,
+    "sex": 1,
+    "age": 71,
+    "year": 1968,
+    "thickness": 2.26,
+    "ulcer": 0
+  },
+  {
+    "": 112,
+    "time": 2062,
+    "status": 1,
+    "sex": 0,
+    "age": 52,
+    "year": 1965,
+    "thickness": 3.06,
+    "ulcer": 0
+  },
+  {
+    "": 113,
+    "time": 2075,
+    "status": 2,
+    "sex": 1,
+    "age": 55,
+    "year": 1972,
+    "thickness": 2.58,
+    "ulcer": 1
+  },
+  {
+    "": 114,
+    "time": 2085,
+    "status": 3,
+    "sex": 0,
+    "age": 66,
+    "year": 1970,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 115,
+    "time": 2102,
+    "status": 2,
+    "sex": 1,
+    "age": 35,
+    "year": 1972,
+    "thickness": 1.13,
+    "ulcer": 0
+  },
+  {
+    "": 116,
+    "time": 2103,
+    "status": 1,
+    "sex": 1,
+    "age": 44,
+    "year": 1966,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 117,
+    "time": 2104,
+    "status": 2,
+    "sex": 0,
+    "age": 72,
+    "year": 1972,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 118,
+    "time": 2108,
+    "status": 1,
+    "sex": 0,
+    "age": 58,
+    "year": 1969,
+    "thickness": 1.76,
+    "ulcer": 1
+  },
+  {
+    "": 119,
+    "time": 2112,
+    "status": 2,
+    "sex": 0,
+    "age": 54,
+    "year": 1972,
+    "thickness": 1.94,
+    "ulcer": 1
+  },
+  {
+    "": 120,
+    "time": 2150,
+    "status": 2,
+    "sex": 0,
+    "age": 33,
+    "year": 1972,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 121,
+    "time": 2156,
+    "status": 2,
+    "sex": 0,
+    "age": 45,
+    "year": 1972,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 122,
+    "time": 2165,
+    "status": 2,
+    "sex": 1,
+    "age": 62,
+    "year": 1972,
+    "thickness": 5.64,
+    "ulcer": 0
+  },
+  {
+    "": 123,
+    "time": 2209,
+    "status": 2,
+    "sex": 0,
+    "age": 72,
+    "year": 1971,
+    "thickness": 9.66,
+    "ulcer": 0
+  },
+  {
+    "": 124,
+    "time": 2227,
+    "status": 2,
+    "sex": 0,
+    "age": 51,
+    "year": 1971,
+    "thickness": 0.1,
+    "ulcer": 0
+  },
+  {
+    "": 125,
+    "time": 2227,
+    "status": 2,
+    "sex": 1,
+    "age": 77,
+    "year": 1971,
+    "thickness": 5.48,
+    "ulcer": 1
+  },
+  {
+    "": 126,
+    "time": 2256,
+    "status": 1,
+    "sex": 0,
+    "age": 43,
+    "year": 1971,
+    "thickness": 2.26,
+    "ulcer": 1
+  },
+  {
+    "": 127,
+    "time": 2264,
+    "status": 2,
+    "sex": 0,
+    "age": 65,
+    "year": 1971,
+    "thickness": 4.83,
+    "ulcer": 1
+  },
+  {
+    "": 128,
+    "time": 2339,
+    "status": 2,
+    "sex": 0,
+    "age": 63,
+    "year": 1971,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 129,
+    "time": 2361,
+    "status": 2,
+    "sex": 1,
+    "age": 60,
+    "year": 1971,
+    "thickness": 0.97,
+    "ulcer": 0
+  },
+  {
+    "": 130,
+    "time": 2387,
+    "status": 2,
+    "sex": 0,
+    "age": 50,
+    "year": 1971,
+    "thickness": 5.16,
+    "ulcer": 1
+  },
+  {
+    "": 131,
+    "time": 2388,
+    "status": 1,
+    "sex": 1,
+    "age": 40,
+    "year": 1966,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 132,
+    "time": 2403,
+    "status": 2,
+    "sex": 0,
+    "age": 67,
+    "year": 1971,
+    "thickness": 2.9,
+    "ulcer": 1
+  },
+  {
+    "": 133,
+    "time": 2426,
+    "status": 2,
+    "sex": 0,
+    "age": 69,
+    "year": 1971,
+    "thickness": 3.87,
+    "ulcer": 0
+  },
+  {
+    "": 134,
+    "time": 2426,
+    "status": 2,
+    "sex": 0,
+    "age": 74,
+    "year": 1971,
+    "thickness": 1.94,
+    "ulcer": 1
+  },
+  {
+    "": 135,
+    "time": 2431,
+    "status": 2,
+    "sex": 0,
+    "age": 49,
+    "year": 1971,
+    "thickness": 0.16,
+    "ulcer": 0
+  },
+  {
+    "": 136,
+    "time": 2460,
+    "status": 2,
+    "sex": 0,
+    "age": 47,
+    "year": 1971,
+    "thickness": 0.64,
+    "ulcer": 0
+  },
+  {
+    "": 137,
+    "time": 2467,
+    "status": 1,
+    "sex": 0,
+    "age": 42,
+    "year": 1965,
+    "thickness": 2.26,
+    "ulcer": 1
+  },
+  {
+    "": 138,
+    "time": 2492,
+    "status": 2,
+    "sex": 0,
+    "age": 54,
+    "year": 1971,
+    "thickness": 1.45,
+    "ulcer": 0
+  },
+  {
+    "": 139,
+    "time": 2493,
+    "status": 2,
+    "sex": 1,
+    "age": 72,
+    "year": 1971,
+    "thickness": 4.82,
+    "ulcer": 1
+  },
+  {
+    "": 140,
+    "time": 2521,
+    "status": 2,
+    "sex": 0,
+    "age": 45,
+    "year": 1971,
+    "thickness": 1.29,
+    "ulcer": 1
+  },
+  {
+    "": 141,
+    "time": 2542,
+    "status": 2,
+    "sex": 1,
+    "age": 67,
+    "year": 1971,
+    "thickness": 7.89,
+    "ulcer": 1
+  },
+  {
+    "": 142,
+    "time": 2559,
+    "status": 2,
+    "sex": 0,
+    "age": 48,
+    "year": 1970,
+    "thickness": 0.81,
+    "ulcer": 1
+  },
+  {
+    "": 143,
+    "time": 2565,
+    "status": 1,
+    "sex": 1,
+    "age": 34,
+    "year": 1970,
+    "thickness": 3.54,
+    "ulcer": 1
+  },
+  {
+    "": 144,
+    "time": 2570,
+    "status": 2,
+    "sex": 0,
+    "age": 44,
+    "year": 1970,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 145,
+    "time": 2660,
+    "status": 2,
+    "sex": 0,
+    "age": 31,
+    "year": 1970,
+    "thickness": 0.64,
+    "ulcer": 0
+  },
+  {
+    "": 146,
+    "time": 2666,
+    "status": 2,
+    "sex": 0,
+    "age": 42,
+    "year": 1970,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 147,
+    "time": 2676,
+    "status": 2,
+    "sex": 0,
+    "age": 24,
+    "year": 1970,
+    "thickness": 1.45,
+    "ulcer": 1
+  },
+  {
+    "": 148,
+    "time": 2738,
+    "status": 2,
+    "sex": 0,
+    "age": 58,
+    "year": 1970,
+    "thickness": 0.48,
+    "ulcer": 0
+  },
+  {
+    "": 149,
+    "time": 2782,
+    "status": 1,
+    "sex": 1,
+    "age": 78,
+    "year": 1969,
+    "thickness": 1.94,
+    "ulcer": 0
+  },
+  {
+    "": 150,
+    "time": 2787,
+    "status": 2,
+    "sex": 1,
+    "age": 62,
+    "year": 1970,
+    "thickness": 0.16,
+    "ulcer": 0
+  },
+  {
+    "": 151,
+    "time": 2984,
+    "status": 2,
+    "sex": 1,
+    "age": 70,
+    "year": 1969,
+    "thickness": 0.16,
+    "ulcer": 0
+  },
+  {
+    "": 152,
+    "time": 3032,
+    "status": 2,
+    "sex": 0,
+    "age": 35,
+    "year": 1969,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 153,
+    "time": 3040,
+    "status": 2,
+    "sex": 0,
+    "age": 61,
+    "year": 1969,
+    "thickness": 1.94,
+    "ulcer": 0
+  },
+  {
+    "": 154,
+    "time": 3042,
+    "status": 1,
+    "sex": 0,
+    "age": 54,
+    "year": 1967,
+    "thickness": 3.54,
+    "ulcer": 1
+  },
+  {
+    "": 155,
+    "time": 3067,
+    "status": 2,
+    "sex": 0,
+    "age": 29,
+    "year": 1969,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 156,
+    "time": 3079,
+    "status": 2,
+    "sex": 1,
+    "age": 64,
+    "year": 1969,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 157,
+    "time": 3101,
+    "status": 2,
+    "sex": 1,
+    "age": 47,
+    "year": 1969,
+    "thickness": 7.09,
+    "ulcer": 0
+  },
+  {
+    "": 158,
+    "time": 3144,
+    "status": 2,
+    "sex": 1,
+    "age": 62,
+    "year": 1969,
+    "thickness": 0.16,
+    "ulcer": 0
+  },
+  {
+    "": 159,
+    "time": 3152,
+    "status": 2,
+    "sex": 0,
+    "age": 32,
+    "year": 1969,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 160,
+    "time": 3154,
+    "status": 3,
+    "sex": 1,
+    "age": 49,
+    "year": 1969,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 161,
+    "time": 3180,
+    "status": 2,
+    "sex": 0,
+    "age": 25,
+    "year": 1969,
+    "thickness": 1.29,
+    "ulcer": 0
+  },
+  {
+    "": 162,
+    "time": 3182,
+    "status": 3,
+    "sex": 1,
+    "age": 49,
+    "year": 1966,
+    "thickness": 6.12,
+    "ulcer": 0
+  },
+  {
+    "": 163,
+    "time": 3185,
+    "status": 2,
+    "sex": 0,
+    "age": 64,
+    "year": 1969,
+    "thickness": 0.48,
+    "ulcer": 0
+  },
+  {
+    "": 164,
+    "time": 3199,
+    "status": 2,
+    "sex": 0,
+    "age": 36,
+    "year": 1969,
+    "thickness": 0.64,
+    "ulcer": 0
+  },
+  {
+    "": 165,
+    "time": 3228,
+    "status": 2,
+    "sex": 0,
+    "age": 58,
+    "year": 1969,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 166,
+    "time": 3229,
+    "status": 2,
+    "sex": 0,
+    "age": 37,
+    "year": 1969,
+    "thickness": 1.94,
+    "ulcer": 0
+  },
+  {
+    "": 167,
+    "time": 3278,
+    "status": 2,
+    "sex": 1,
+    "age": 54,
+    "year": 1969,
+    "thickness": 2.58,
+    "ulcer": 0
+  },
+  {
+    "": 168,
+    "time": 3297,
+    "status": 2,
+    "sex": 0,
+    "age": 61,
+    "year": 1968,
+    "thickness": 2.58,
+    "ulcer": 1
+  },
+  {
+    "": 169,
+    "time": 3328,
+    "status": 2,
+    "sex": 1,
+    "age": 31,
+    "year": 1968,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 170,
+    "time": 3330,
+    "status": 2,
+    "sex": 1,
+    "age": 61,
+    "year": 1968,
+    "thickness": 0.81,
+    "ulcer": 1
+  },
+  {
+    "": 171,
+    "time": 3338,
+    "status": 1,
+    "sex": 0,
+    "age": 60,
+    "year": 1967,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 172,
+    "time": 3383,
+    "status": 2,
+    "sex": 0,
+    "age": 43,
+    "year": 1968,
+    "thickness": 0.32,
+    "ulcer": 0
+  },
+  {
+    "": 173,
+    "time": 3384,
+    "status": 2,
+    "sex": 0,
+    "age": 68,
+    "year": 1968,
+    "thickness": 3.22,
+    "ulcer": 1
+  },
+  {
+    "": 174,
+    "time": 3385,
+    "status": 2,
+    "sex": 0,
+    "age": 4,
+    "year": 1968,
+    "thickness": 2.74,
+    "ulcer": 0
+  },
+  {
+    "": 175,
+    "time": 3388,
+    "status": 2,
+    "sex": 1,
+    "age": 60,
+    "year": 1968,
+    "thickness": 4.84,
+    "ulcer": 1
+  },
+  {
+    "": 176,
+    "time": 3402,
+    "status": 2,
+    "sex": 1,
+    "age": 50,
+    "year": 1968,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 177,
+    "time": 3441,
+    "status": 2,
+    "sex": 0,
+    "age": 20,
+    "year": 1968,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 178,
+    "time": 3458,
+    "status": 3,
+    "sex": 0,
+    "age": 54,
+    "year": 1967,
+    "thickness": 1.45,
+    "ulcer": 0
+  },
+  {
+    "": 179,
+    "time": 3459,
+    "status": 2,
+    "sex": 0,
+    "age": 29,
+    "year": 1968,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 180,
+    "time": 3459,
+    "status": 2,
+    "sex": 1,
+    "age": 56,
+    "year": 1968,
+    "thickness": 1.29,
+    "ulcer": 1
+  },
+  {
+    "": 181,
+    "time": 3476,
+    "status": 2,
+    "sex": 0,
+    "age": 60,
+    "year": 1968,
+    "thickness": 1.62,
+    "ulcer": 0
+  },
+  {
+    "": 182,
+    "time": 3523,
+    "status": 2,
+    "sex": 0,
+    "age": 46,
+    "year": 1968,
+    "thickness": 3.54,
+    "ulcer": 0
+  },
+  {
+    "": 183,
+    "time": 3667,
+    "status": 2,
+    "sex": 0,
+    "age": 42,
+    "year": 1967,
+    "thickness": 3.22,
+    "ulcer": 0
+  },
+  {
+    "": 184,
+    "time": 3695,
+    "status": 2,
+    "sex": 0,
+    "age": 34,
+    "year": 1967,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 185,
+    "time": 3695,
+    "status": 2,
+    "sex": 0,
+    "age": 56,
+    "year": 1967,
+    "thickness": 1.03,
+    "ulcer": 0
+  },
+  {
+    "": 186,
+    "time": 3776,
+    "status": 2,
+    "sex": 1,
+    "age": 12,
+    "year": 1967,
+    "thickness": 7.09,
+    "ulcer": 1
+  },
+  {
+    "": 187,
+    "time": 3776,
+    "status": 2,
+    "sex": 0,
+    "age": 21,
+    "year": 1967,
+    "thickness": 1.29,
+    "ulcer": 1
+  },
+  {
+    "": 188,
+    "time": 3830,
+    "status": 2,
+    "sex": 1,
+    "age": 46,
+    "year": 1967,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 189,
+    "time": 3856,
+    "status": 2,
+    "sex": 0,
+    "age": 49,
+    "year": 1967,
+    "thickness": 1.78,
+    "ulcer": 0
+  },
+  {
+    "": 190,
+    "time": 3872,
+    "status": 2,
+    "sex": 0,
+    "age": 35,
+    "year": 1967,
+    "thickness": 12.24,
+    "ulcer": 1
+  },
+  {
+    "": 191,
+    "time": 3909,
+    "status": 2,
+    "sex": 1,
+    "age": 42,
+    "year": 1967,
+    "thickness": 8.06,
+    "ulcer": 1
+  },
+  {
+    "": 192,
+    "time": 3968,
+    "status": 2,
+    "sex": 0,
+    "age": 47,
+    "year": 1967,
+    "thickness": 0.81,
+    "ulcer": 0
+  },
+  {
+    "": 193,
+    "time": 4001,
+    "status": 2,
+    "sex": 0,
+    "age": 69,
+    "year": 1967,
+    "thickness": 2.1,
+    "ulcer": 0
+  },
+  {
+    "": 194,
+    "time": 4103,
+    "status": 2,
+    "sex": 0,
+    "age": 52,
+    "year": 1966,
+    "thickness": 3.87,
+    "ulcer": 0
+  },
+  {
+    "": 195,
+    "time": 4119,
+    "status": 2,
+    "sex": 1,
+    "age": 52,
+    "year": 1966,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 196,
+    "time": 4124,
+    "status": 2,
+    "sex": 0,
+    "age": 30,
+    "year": 1966,
+    "thickness": 1.94,
+    "ulcer": 1
+  },
+  {
+    "": 197,
+    "time": 4207,
+    "status": 2,
+    "sex": 1,
+    "age": 22,
+    "year": 1966,
+    "thickness": 0.65,
+    "ulcer": 0
+  },
+  {
+    "": 198,
+    "time": 4310,
+    "status": 2,
+    "sex": 1,
+    "age": 55,
+    "year": 1966,
+    "thickness": 2.1,
+    "ulcer": 0
+  },
+  {
+    "": 199,
+    "time": 4390,
+    "status": 2,
+    "sex": 0,
+    "age": 26,
+    "year": 1965,
+    "thickness": 1.94,
+    "ulcer": 1
+  },
+  {
+    "": 200,
+    "time": 4479,
+    "status": 2,
+    "sex": 0,
+    "age": 19,
+    "year": 1965,
+    "thickness": 1.13,
+    "ulcer": 1
+  },
+  {
+    "": 201,
+    "time": 4492,
+    "status": 2,
+    "sex": 1,
+    "age": 29,
+    "year": 1965,
+    "thickness": 7.06,
+    "ulcer": 1
+  },
+  {
+    "": 202,
+    "time": 4668,
+    "status": 2,
+    "sex": 0,
+    "age": 40,
+    "year": 1965,
+    "thickness": 6.12,
+    "ulcer": 0
+  },
+  {
+    "": 203,
+    "time": 4688,
+    "status": 2,
+    "sex": 0,
+    "age": 42,
+    "year": 1965,
+    "thickness": 0.48,
+    "ulcer": 0
+  },
+  {
+    "": 204,
+    "time": 4926,
+    "status": 2,
+    "sex": 0,
+    "age": 50,
+    "year": 1964,
+    "thickness": 2.26,
+    "ulcer": 0
+  },
+  {
+    "": 205,
+    "time": 5565,
+    "status": 2,
+    "sex": 0,
+    "age": 41,
+    "year": 1962,
+    "thickness": 2.9,
+    "ulcer": 0
+  }
+]
