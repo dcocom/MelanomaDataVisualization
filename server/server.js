@@ -14,13 +14,14 @@ var con = mysql.createConnection({
     database: "melanomamm802"
 });
 
+/*
 con.connect(function(err) {
     if (err) throw err;
     con.query("SELECT time, year FROM melanoma", function (err, result, fields) {
         if (err) throw err;
         console.log(result);
     });
-});
+});*/
 
 
 
