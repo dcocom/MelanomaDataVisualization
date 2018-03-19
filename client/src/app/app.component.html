@@ -1,0 +1,110 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container-fluid">
+  <app-placeholder>
+    <h1 class="app-title">Melanoma</h1>
+  </app-placeholder>
+  <div class="row">
+    <div class="col-sm-3">
+      <app-menu [currentElement]="currentElementID"></app-menu>
+    </div>
+    <div class="col-sm-9">
+      <div id="important">
+        <app-placeholder id="important" trackScroll
+                         (trackScrollEnter)="enter('important')">
+          <h2 class="app-subtitle">Why is melanoma important?</h2>
+          <p class="app-content">
+            The importance of the melanoma detection is based on its high mortality rate and its difficulty of
+            diagnosis.
+            Melanoma is a type of cancer developed in the skin from the pigment-containing cells known as melanocytes.
+            It
+            typically occur in the skin but may rarely occur in the mouth, intestines, or eye. Sometimes they develop
+            from
+            a mole with concerning changes including an increase in size, irregular edges, change in color, itchiness,
+            or
+            skin breakdown.
+            Australia has one of the highest rates of skin cancer in the world.
+          </p>
+        </app-placeholder>
+      </div>
+
+      <app-placeholder id="detection" trackScroll
+                       (trackScrollEnter)="enter('detection')">
+        <h2 class="app-subtitle">How to Detect it?</h2>
+        <ul class="app-content">
+          <li>Borders (irregular with edges and corners)</li>
+          <li>Color (variegated)</li>
+          <li>Diameter (greater than 6 mm (0.24 in), about the size of a pencil eraser)</li>
+          <li>Evolving over time</li>
+          <li>Elevated above the skin surface</li>
+          <li>Firm to the touch</li>
+          <li>Growing</li>
+        </ul>
+      </app-placeholder>
+
+      <app-placeholder id="sex" trackScroll
+                       (trackScrollEnter)="enter('sex')">
+        <h2 class="app-subtitle">sex</h2>
+        <canvas baseChart
+                [data]="pieChartData"
+                [labels]="pieChartLabels"
+                [chartType]="pieChartType"></canvas>
+
+      </app-placeholder>
+
+      <app-placeholder id="survival-time" trackScroll
+                       (trackScrollEnter)="enter('survival-time')">
+        <h2 class="app-subtitle">survival time ratio</h2>
+        <canvas baseChart
+                [datasets]="lineChartData"
+                [labels]="lineChartLabels"
+                [options]="lineChartOptions"
+                [chartType]="lineChartType"></canvas>
+
+      </app-placeholder>
+
+      <app-placeholder id="age" trackScroll
+                       (trackScrollEnter)="enter('age')">
+        <h2 class="app-subtitle">age</h2>
+        <canvas baseChart
+                [datasets]="barChartData"
+                [labels]="barChartLabels"
+                [options]="barChartOptions"
+                [legend]="barChartLegend"
+                [chartType]="barChartType"></canvas>
+      </app-placeholder>
+
+      <app-placeholder id="status" trackScroll
+                       (trackScrollEnter)="enter('status')">
+        <h2 class="app-subtitle">status</h2>
+        <canvas baseChart
+                [data]="doughnutChartData"
+                [labels]="doughnutChartLabels"
+                [chartType]="doughnutChartType"></canvas>
+
+      </app-placeholder>
+
+      <app-placeholder id="relations" trackScroll
+                       (trackScrollEnter)="enter('relations')">
+        <h2 class="app-subtitle">relations</h2>
+        <canvas baseChart
+                [datasets]="radarChartData"
+                [labels]="radarChartLabels"
+                [chartType]="radarChartType"></canvas>
+
+      </app-placeholder>
+
+      <app-placeholder id="sex-status" trackScroll
+                       (trackScrollEnter)="enter('sex-status')">
+        <h2 class="app-subtitle">Sex vs Status</h2>
+        <canvas baseChart
+                [datasets]="relationLineChartData"
+                [labels]="relationLineChartLabels"
+                [options]="relationLineChartOptions"
+                [chartType]="relationLineChartType"></canvas>
+
+      </app-placeholder>
+
+
+    </div>
+  </div>
+</div>

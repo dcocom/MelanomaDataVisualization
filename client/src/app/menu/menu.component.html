@@ -1,0 +1,6 @@
+<ul [ngStyle]="{'position': elementPosition}" class="list">
+  <li class="list-item" *ngFor="let category of categories"
+      [ngClass]="{'active': currentElement == category.id}">
+    <a href="#{{category.id}}" class="link" (click)="goToLink(category.id)">{{category.name}}</a>
+  </li>
+</ul>
